@@ -1,2 +1,2 @@
-# OTS_TestRepository
+# simple translator
 a simple translator
