@@ -7,7 +7,7 @@ int main() {
 	std::string fra1 = "Sacados";
 
 	std::cin >> ger1;
-	std::cout << "I do not care what you want to translate to french,\n but your translation will always read:\n " << fra1;
+	std::cout << "I do care very much to translate to french,\n because it is important to learn french:\n " << fra1;
 
 		return 0;
 }
